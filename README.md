@@ -36,6 +36,16 @@
 
 - TypeScript is used to develop JavaScript applications for both client-side and server-side execution (as with Node.js or Deno).
 
+## Source link to GitHub Repo
+- https://github.com/GUNDUPOOJA/pg-nest-api
+
+## Links
+## applink (hosted URL on Heroku)
+- https://git.heroku.com/pg-nest-api.git
+
+## hosted app on heroku 
+- https://pg-nest-api.herokuapp.com/
+
 ## Installation
 
 ```bash
