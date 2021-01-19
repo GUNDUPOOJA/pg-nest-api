@@ -25,6 +25,16 @@
 ## Description
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+- It is currently the fastest-growing Node.js framework in TypeScript.
+
+## Building blocks of nest.js
+- Modules: Used to organize the code,some Typescript files uses @Module decorator that provides the metadata, which nest uses to organize the application structure.
+- Providers : They are also called services, used for the abstraction of complexity and logic. The providers are inserted into controllers or other providers.
+- Controllers : Used for handling the requests and providing the appropriate responses.
+
+## What is Typescript?
+
+- TypeScript is used to develop JavaScript applications for both client-side and server-side execution (as with Node.js or Deno).
 
 ## Installation
 
