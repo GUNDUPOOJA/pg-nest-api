@@ -35,6 +35,12 @@
 ## What is Typescript?
 
 - TypeScript is used to develop JavaScript applications for both client-side and server-side execution (as with Node.js or Deno).
+- TypeScript introduced a great deal of syntax taken from object-oriented programming, including but not limited to:
+- interfaces,
+- classes,
+- enumerated types,
+- generics,
+- modules.
 
 ## Source link to GitHub Repo
 - https://github.com/GUNDUPOOJA/pg-nest-api
