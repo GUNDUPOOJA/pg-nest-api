@@ -66,11 +66,18 @@ $ npm run test:cov
 
 Nest is an MIT-licensed open source project. It can grow thanks to the sponsors and support by the amazing backers. If you'd like to join them, please [read more here](https://docs.nestjs.com/support).
 
-## Stay in touch
+## Resources
+- https://docs.nestjs.com/providers
+- https://docs.nestjs.com/modules
+- https://nwmissouri.instructure.com/courses/35916/discussion_topics/242155
 
+## Why is DI so popular? (Hint: passing objects into functions makes it easy to test those functions.)
+
+
+## Stay in touch
 - Website - [https://nestjs.com](https://nestjs.com/)
-- Twitter - [@nestframework](https://twitter.com/nestframework)
 
 ## License
 
 Nest is [MIT licensed](LICENSE).
+
