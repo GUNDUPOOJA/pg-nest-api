@@ -9,7 +9,7 @@
 - https://git.heroku.com/pg-nest-api.git
 
 ## hosted app on heroku 
-- https://pg-nest-api.herokuapp.com/
+- https://pg-nest-api.herokuapp.com/quest
 
 ## Source link to GitHub Repo
 - https://github.com/GUNDUPOOJA/pg-nest-api
