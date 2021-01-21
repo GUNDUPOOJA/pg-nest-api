@@ -11,6 +11,10 @@
 ## hosted app on heroku 
 - https://pg-nest-api.herokuapp.com/
 
+## Source link to GitHub Repo
+- https://github.com/GUNDUPOOJA/pg-nest-api
+
+
 ## Building blocks of nest.js
 - Modules: Used to organize the code,some Typescript files uses @Module decorator that provides the metadata, which nest uses to organize the application structure.
 - Providers : They are also called services, used for the abstraction of complexity and logic. The providers are inserted into controllers or other providers.
@@ -25,10 +29,6 @@
 - enumerated types,
 - generics,
 - modules.
-
-## Source link to GitHub Repo
-- https://github.com/GUNDUPOOJA/pg-nest-api
-
 
 ## Installation
 
