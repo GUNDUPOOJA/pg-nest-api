@@ -30,6 +30,9 @@
 - generics,
 - modules.
 
+- For each new resource, there's a module with a controller that handles requests by calling a service. (We've seen these before.) 
+- There's also an interface - and a dto - a data transfer object. When you call a POST (or PUT) command, you need to provide a package with your request.  That's wrapped up nicely in a read-only 'data transfer object' - one for each unique package needed. 
+
 ## Installation
 
 ```bash
