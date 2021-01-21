@@ -4,6 +4,13 @@
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 - It is currently the fastest-growing Node.js framework in TypeScript.
 
+## Links
+## applink
+- https://git.heroku.com/pg-nest-api.git
+
+## hosted app on heroku 
+- https://pg-nest-api.herokuapp.com/
+
 ## Building blocks of nest.js
 - Modules: Used to organize the code,some Typescript files uses @Module decorator that provides the metadata, which nest uses to organize the application structure.
 - Providers : They are also called services, used for the abstraction of complexity and logic. The providers are inserted into controllers or other providers.
@@ -22,12 +29,6 @@
 ## Source link to GitHub Repo
 - https://github.com/GUNDUPOOJA/pg-nest-api
 
-## Links
-## applink (hosted URL on Heroku)
-- https://git.heroku.com/pg-nest-api.git
-
-## hosted app on heroku 
-- https://pg-nest-api.herokuapp.com/
 
 ## Installation
 
