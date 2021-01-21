@@ -6,7 +6,7 @@
 
 ## Links
 ## applink
-- https://git.heroku.com/pg-nest-api.git
+-  https://pg-nest-api.herokuapp.com/
 
 ## hosted app on heroku 
 - https://pg-nest-api.herokuapp.com/quest
