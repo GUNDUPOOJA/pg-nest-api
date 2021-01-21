@@ -1,5 +1,5 @@
 ## pg-nest-api
-## Description
+## Nest Description
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 - It is currently the fastest-growing Node.js framework in TypeScript.
@@ -13,6 +13,10 @@
 
 ## Source link to GitHub Repo
 - https://github.com/GUNDUPOOJA/pg-nest-api
+
+## RESTful API
+
+- RESTful API is an architectural style for an application program interface (API) that uses HTTP requests to access and use data. That data can be used to GET, PUT, POST and DELETE data types, which refers to the reading, updating, creating and deleting of operations concerning resources.
 
 
 ## Building blocks of nest.js
